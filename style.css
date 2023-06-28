@@ -68,3 +68,13 @@ body {
     padding: 12px 0;
 
 }
+.lista-rodapé__link:hover {
+    color: var(--laranja);
+    }
+    .tópicos__link:hover {
+        color: var(--laranja);
+        background-color: var(--branco);
+        }
+        .botões__ancora:active {
+            background-color: var(--azul);
+            }
